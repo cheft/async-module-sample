@@ -1,0 +1,1 @@
+webpackJsonp([1],{4:function(n,o,e){n.exports=function(){console.log("It's module1 !"),setTimeout(function(){e.e(2,function(n){var o=e(5);o();var t=e(6);t(),e(12)})},1e3),setTimeout(function(){e.e(3,function(n){var o=e(7);o(),e(13)})},2e3)}}});

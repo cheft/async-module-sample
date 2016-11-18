@@ -1,0 +1,1 @@
+webpackJsonp([2],{5:function(o,n){o.exports=function(){console.log("It's module2 !")}},6:function(o,n){o.exports=function(){console.log("It's module3 !")}},8:function(o,n,t){n=o.exports=t(1)(),n.push([o.id,"h1{color:red}",""])},12:function(o,n,t){var s=t(8);"string"==typeof s&&(s=[[o.id,s,""]]);t(2)(s,{});s.locals&&(o.exports=s.locals)}});
