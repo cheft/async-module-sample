@@ -1,5 +1,5 @@
-require('./module1.css')
-require('./module2.css')
+require('./common.css')
+require('./main.css')
 
 console.log('It\'s main!')
 
